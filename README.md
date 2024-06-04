@@ -1,10 +1,4 @@
-# Portfolio Template
-
-https://github.com/shaqdeff/Portfolio-Template/assets/92020713/eed76a82-e59d-440b-a04c-a2dc00a508b7
-
-![portfolio-phone](https://github.com/shaqdeff/Portfolio-Template/assets/92020713/e41ed31c-50e5-40d3-a74f-9c0eb053fe7f)
-![portfolio-phone-3](https://github.com/shaqdeff/Portfolio-Template/assets/92020713/e8c23aa7-ac27-48fc-bf66-50ab00e3a64f)
-
+## Introduction
 I created this portfolio to use as my own but ended up doing something else entirely. However, instead of keeping it buried, I decided to put it up here on GitHub as an open-source resource to help individuals to learn, adapt, and create their own portfolios. Feel free to customize and modify the theme and components to suit your personal style and branding preferences.
 
 ## License and Attribution
@@ -22,7 +16,7 @@ All projects and experiences included in this portfolio are the result of my own
 
 ## Live Demo
 
-- Click [here](https://shaq-portfolio.netlify.app/) to view the live demo.
+- Click [here](https://my-portfolio-ten-olive-67.vercel.app/) to view the live demo.
 
 ## Getting Started
 
@@ -83,11 +77,10 @@ npm run preview
 
 ## Authors
 
-👤 **Shaquille Ndunda**
+👤 **Harshavardhan Rajinikanth**
 
-- GitHub: [@shaqdeff](https://github.com/shaqdeff)
-- Twitter: [@shaquillendunda](https://twitter.com/shaquillendunda)
-- LinkedIn: [Shaquille Ndunda](https://www.linkedin.com/in/shaquille-ndunda-b13a95107/)
+- GitHub: [@GitHub](https://github.com/Harsha2324)
+- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/harshavardhan-rajinikanth-439858172/)
 
 ## Feedback and Contributions
 
